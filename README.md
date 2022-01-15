@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⏳ I'm currently working on my bachelor thesis on the subject of *Inconspicuous Adversarial Patches against Object Detection* with PyTorch.  
+⏳ I'm currently working on my bachelor thesis on the subject of *Inconspicuous Adversarial Patches against Object Detection* (PyTorch).  
 😄 Pronouns: she/her
 <!--
 **codaubianca/codaubianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
