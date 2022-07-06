@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ⏳ I recently finished my bachelor thesis on the subject of *Inconspicuous Adversarial Patches against Object Detection* (PyTorch).  
-🏃‍♀️ I'm currently learning Python, PyTorch and ScikitLearn.
-😄 Pronouns: she/her
+🏃‍♀️ I'm currently learning Python, PyTorch and ScikitLearn. 
+😄 Pronouns: she/her 
 
 <!--
 **codaubianca/codaubianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
