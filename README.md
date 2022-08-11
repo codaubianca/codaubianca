@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ⏳ I recently finished my bachelor thesis on the subject of *Inconspicuous Adversarial Patches against Object Detection* (PyTorch).  
-🏃‍♀️ I'm currently learning Python, PyTorch and ScikitLearn.   
+🏃‍♀️ I'm currently experimenting with Python, PyTorch and ScikitLearn in my spare time.
 😄 Pronouns: she/her   
 
 <!--
