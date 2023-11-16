@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-⏳ I recently finished my bachelor thesis on the subject of *Inconspicuous Adversarial Patches against Object Detection* (PyTorch).  
-🏃‍♀️ I'm currently experimenting with Python, PyTorch and ScikitLearn in my spare time.
+💻 I am a master student at Karlsruhe Institute of Technology (KIT) in Germany.
+📚 Specializing in information systems and AI
+🏃‍♀️ Currently experimenting with Python, PyTorch and ScikitLearn in my spare time.
 😄 Pronouns: she/her   
 
 <!--
