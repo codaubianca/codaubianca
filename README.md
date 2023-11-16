@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-💻 I am a master student at Karlsruhe Institute of Technology (KIT) in Germany.
-📚 Specializing in information systems and AI
-🏃‍♀️ Currently experimenting with Python, PyTorch and ScikitLearn in my spare time.
+💻 I am a master student at Karlsruhe Institute of Technology (KIT) in Germany.  
+📚 Specializing in information systems and AI  
+🏃‍♀️ Currently experimenting with Python, PyTorch and ScikitLearn in my spare time.  
 😄 Pronouns: she/her   
 
 <!--
