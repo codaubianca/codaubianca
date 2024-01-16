@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 CS graduate with experience in Backend Development and ML
+💻 CS graduate with experience in Backend Development and ML  
 😄 Pronouns: she/her   
 
 <!--
