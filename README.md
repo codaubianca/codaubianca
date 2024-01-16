@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-💻 I am a master student at Karlsruhe Institute of Technology (KIT) in Germany.  
-📚 Specializing in information systems and AI  
+💻 CS graduate with experience in Backend Development and ML
 😄 Pronouns: she/her   
 
 <!--
