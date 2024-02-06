@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 CS graduate
+💻 CS graduate  
 😄 Pronouns: she/her   
 
 <!--
