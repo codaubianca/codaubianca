@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 CS graduate  
+💻 Currently pursuing a master's degree in Computer Science at Karlsruhe Institute of Technology in Karlsruhe, Germany.  
 😄 Pronouns: she/her   
 
 <!--
